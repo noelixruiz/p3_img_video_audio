@@ -1,0 +1,20 @@
+  /*REST html */
+  *{
+    margin: 0;
+    padding: 0;
+    /*box-sizing: border-box; */
+}
+/*encapçalament */
+ul{
+    list-style: none;
+}
+   header{
+       background: palevioletred;
+       padding: 40px;
+       margin: 0 0 20px 0;
+   }
+   /*menú */
+   nav{background: seagreen;
+    padding: 40px;
+}
+   main{background: yellow;}
